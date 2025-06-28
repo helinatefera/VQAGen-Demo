@@ -2,9 +2,9 @@
 
 Download and place the models inside a folder named `model/`.
 
-[![Amharic Model link](https://huggingface.co/hinaltt/Video_Question_Answering_Model_for_Amharic/tree/main)
+[![Amharic Model link](https://img.shields.io/badge/HuggingFace-Amharic_Model-yellow?logo=huggingface&style=for-the-badge)](https://huggingface.co/hinaltt/Video_Question_Answering_Model_for_Amharic/tree/main)
 &nbsp;
-[![English Model link](https://img.shields.io/badge/HuggingFace-English_Model-yellow?logo=huggingface&style=for-the-badge)](https://huggingface.co/hinaltt/VideoQA)
+[![English Model link](https://img.shields.io/badge/HuggingFace-English_Model-yellow?logo=huggingface&style=for-the-badge)](https://huggingface.co/hinaltt/VideoQA/tree/main)&nbsp;
 
 ---
 
