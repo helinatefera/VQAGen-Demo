@@ -6,6 +6,8 @@ Place the downloaded models in a folder named `model/`.
 &nbsp;
 [![English Model link](https://img.shields.io/badge/HuggingFace-English_Model-yellow?logo=huggingface&style=for-the-badge)](https://huggingface.co/hinaltt/VideoQA)
 
+![Live](img/live.png)
+
 ## 📥 Clone the Repository
 
 ```bash
